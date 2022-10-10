@@ -24,7 +24,7 @@ add java path :
 
 sudo vi /etc/profile
 
-export JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64/"
+export JAVA_HOME="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.342.b07-1.amzn2.0.1.x86_64"
 
 export PATH=$PATH:$JAVA_HOME/bin
 
